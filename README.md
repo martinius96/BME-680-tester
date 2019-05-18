@@ -16,3 +16,5 @@ Mikrokontróler|BME280
 GND|GND
 D4|TX
 D5|RX
+
+* Knižničná adresa: 0x77
