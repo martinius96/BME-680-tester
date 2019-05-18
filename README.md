@@ -17,4 +17,8 @@ GND|GND
 D4|TX
 D5|RX
 
-* Knižničná adresa: 0x77
+# Datasheet
+Datasheet BME680: https://cdn-shop.adafruit.com/product-files/3660/BME680.pdf
+
+# Buy at Aliexpress:
+GY-MCU680V1 BME680 Sensor: https://www.aliexpress.com/item/GY-MCU680V1-BME680-Sensor-Module-Temperature-and-Humidity-Air-Pressure-Air-Quality-IAQ-MCU680-Module/32902672818.html?spm=a2g0s.9042311.0.0.c9d24c4dDAZysZ
